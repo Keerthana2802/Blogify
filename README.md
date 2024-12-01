@@ -1,6 +1,7 @@
-# Blogify - Node.js Blog Application
+# Blogify - Blog Application
 
-Blogify is a simple and functional blog website built using Node.js, Express, and MongoDB. It provides user authentication, CRUD operations for posts, and a basic admin dashboard for managing blog content.
+Blogify is a simple and functional blog website built using Node.js, Express, and MongoDB. 
+It provides user authentication, CRUD operations for posts, and a basic admin dashboard for managing blog content.
 
 ![Image](public/img/image.png)
 
@@ -38,7 +39,7 @@ Blogify is a simple and functional blog website built using Node.js, Express, an
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/blogify.git
+   git clone https://github.com/Keerthana2802/Blogify.git
 
    ```
 
