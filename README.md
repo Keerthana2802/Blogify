@@ -1,9 +1,11 @@
 # Blogify - Blog Application
+<br>
+
+![Image](public/img/image.png)
 
 Blogify is a simple and functional blog website built using Node.js, Express, and MongoDB. 
 It provides user authentication, CRUD operations for posts, and a basic admin dashboard for managing blog content.
 
-![Image](public/img/image.png)
 
 ## Features
 
